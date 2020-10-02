@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on roper的博客</title>
+    <link>https://www.flysnow.org/about/</link>
+    <description>Recent content in Abouts on roper的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 02 Oct 2020 11:34:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.flysnow.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>自我介绍</title>
+      <link>https://www.flysnow.org/about/me/</link>
+      <pubDate>Fri, 02 Oct 2020 11:34:19 +0800</pubDate>
+      
+      <guid>https://www.flysnow.org/about/me/</guid>
+      <description>这是我的自我介绍 撒地方师傅第三方第三方第三方第三方第三方
+沙发斯蒂芬第三方第三方是否</description>
+    </item>
+    
+  </channel>
+</rss>

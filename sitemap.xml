@@ -3,15 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://roperluo32.github.io/blog/categories/</loc>
+    <loc>https://www.flysnow.org/about/</loc>
+    <lastmod>2020-10-02T11:34:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://roperluo32.github.io/blog/</loc>
+    <loc>https://www.flysnow.org/</loc>
+    <lastmod>2020-10-02T11:34:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://roperluo32.github.io/blog/tags/</loc>
+    <loc>https://www.flysnow.org/about/me/</loc>
+    <lastmod>2020-10-02T11:34:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/categories/</loc>
+    <lastmod>2020-10-02T11:27:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/post/gin%E7%9A%84%E7%94%A8%E6%B3%95/</loc>
+    <lastmod>2020-10-02T11:27:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/categories/golang/</loc>
+    <lastmod>2020-10-02T11:27:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/tags/golang/</loc>
+    <lastmod>2020-10-02T11:27:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/post/</loc>
+    <lastmod>2020-10-02T11:27:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/tags/</loc>
+    <lastmod>2020-10-02T11:27:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/post/network/</loc>
+    <lastmod>2020-10-02T10:26:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/post/my-first-post/</loc>
+    <lastmod>2020-10-02T10:17:47+08:00</lastmod>
   </url>
   
 </urlset>

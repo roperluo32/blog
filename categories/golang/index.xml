@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>roper的博客</title>
-    <link>https://www.flysnow.org/</link>
-    <description>Recent content on roper的博客</description>
+    <title>Golang on roper的博客</title>
+    <link>https://www.flysnow.org/categories/golang/</link>
+    <description>Recent content in Golang on roper的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2020 11:34:19 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 11:27:39 +0800</lastBuildDate>
     
-	<atom:link href="https://www.flysnow.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.flysnow.org/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>自我介绍</title>
-      <link>https://www.flysnow.org/about/me/</link>
-      <pubDate>Fri, 02 Oct 2020 11:34:19 +0800</pubDate>
-      
-      <guid>https://www.flysnow.org/about/me/</guid>
-      <description>这是我的自我介绍 撒地方师傅第三方第三方第三方第三方第三方
-沙发斯蒂芬第三方第三方是否</description>
-    </item>
     
     <item>
       <title>Gin的用法</title>
@@ -39,25 +29,6 @@ lskjfksdjflsjdflkfjskldjfldsjflsajflkjsdflkjsdlfjlsjflkwjelkfjwekjflewkjfewjfjwe
 lskjfksdjflsjdflkfjskldjfldsjflsajflkjsdflkjsdlfjlsjflkwjelkfjwekjflewkjfewjfjweflwjflewkjf lskjfksdjflsjdflkfjskldjfldsjflsajflkjsdflkjsdlfjlsjflkwjelkfjwekjflewkjfewjfjweflwjflewkjf lskjfksdjflsjdflkfjskldjfldsjflsajflkjsdflkjsdlfjlsjflkwjelkfjwekjflewkjfewjfjweflwjflewkjf
 3.2 撒地方师傅 lskjfksdjflsjdflkfjskldjfldsjflsajflkjsdflkjsdlfjlsjflkwjelkfjwekjflewkjfewjfjweflwjflewkjf
 lskjfksdjflsjdflkfjskldjfldsjflsajflkjsdflkjsdlfjlsjflkwjelkfjwekjflewkjfewjfjweflwjflewkjf</description>
-    </item>
-    
-    <item>
-      <title>Network</title>
-      <link>https://www.flysnow.org/post/network/</link>
-      <pubDate>Fri, 02 Oct 2020 10:26:38 +0800</pubDate>
-      
-      <guid>https://www.flysnow.org/post/network/</guid>
-      <description>TCP的过程 UDP的原理 </description>
-    </item>
-    
-    <item>
-      <title>roper的博客</title>
-      <link>https://www.flysnow.org/post/my-first-post/</link>
-      <pubDate>Fri, 02 Oct 2020 10:17:47 +0800</pubDate>
-      
-      <guid>https://www.flysnow.org/post/my-first-post/</guid>
-      <description>我的第一篇博客 哈哈水电费水电费来看电视剧副科级独守空房绝对是开了房间的说法建档立卡司法鉴定所房间里看到苏菲的世界法律纠纷 是否了解到杀戮空间福克斯的减肥的就是风口浪尖十分激烈的设计费世纪东方克鲁赛德加肥加大司法鉴定所金粉世家发生的解放军的说法减少到 收到风声江东父老跨境电商福建省打飞机
-思考的房价开始放假的说法j</description>
     </item>
     
   </channel>
